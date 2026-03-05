@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Olá! 😊 Me chamo João Pedro Barbosa e sou estudante de Análise e Desenvolvimento de Sistemas. Tenho interesse em desenvolvimento web, com foco em Front-End, criando interfaces modernas e responsivas.<br><br>Com esse perfil, tenho como objetivo além de compartilhar meus projetos, registrar minha evolução e aplicar a melhoria continua na minha trajetória.</p>
+<p align="left">Olá! 😊 Me chamo Pedro Barbosa e sou estudante de Análise e Desenvolvimento de Sistemas. Tenho interesse em desenvolvimento web, com foco em Front-End, criando interfaces modernas e responsivas.<br><br>Com esse perfil, tenho como objetivo além de compartilhar meus projetos, registrar minha evolução e aplicar a melhoria continua na minha trajetória.</p>
 
 ###
 
